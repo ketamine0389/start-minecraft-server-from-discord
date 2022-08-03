@@ -1,0 +1,6 @@
+# Directories
+!ignore/
+node_modules/
+
+# Files
+*.bat

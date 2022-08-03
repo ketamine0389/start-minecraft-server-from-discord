@@ -1,0 +1,8 @@
+{
+    "guildId"    :  "the discord server that you will use to start the server",
+    "clientId"   :  "the bot id",
+    "token"      :  "the bot token",
+    "batchPath"  :  "path to the server start batch",
+    "serverIP"   :  "the server's ip",
+    "stopTime"   :  "how long after the server is inactive that it should stop (in minutes)"
+}
