@@ -1,5 +1,5 @@
 # Directories
-!ignore/
+ignore/
 node_modules/
 
 # Files
